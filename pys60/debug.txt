@@ -1,0 +1,9 @@
+Excluding: __main__ module_type:base
+In resolve_unresolved_dep now:['appuifw', 'btsocket']
+mod: btsocket : type: dev
+excluding: btsocket module type: base
+mod: appuifw : type: dev
+excluding: appuifw module type: base
+Final dependency list: {'repo': [], 'dev': []}
+Extra modules list:{'repo': [], 'dev': []}
+Custom lookup paths are :[]
